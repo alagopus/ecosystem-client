@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/strider-ecosystem-client.png)](https://nodei.co/npm/strider-ecosystem-client/)
+
 ecosystem-client
 ================
 
