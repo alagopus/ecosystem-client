@@ -1,0 +1,28 @@
+{
+  "name": "strider-ecosystem-client",
+  "version": "1.0.0",
+  "description": "HTTP client for consuming metadata about the Strider ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Strider-CD/ecosystem-client.git"
+  },
+  "keywords": [
+    "strider"
+  ],
+  "author": "Keyvan Fatehi <keyvanfatehi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strider-CD/ecosystem-client/issues"
+  },
+  "homepage": "https://github.com/Strider-CD/ecosystem-client",
+  "dependencies": {
+    "bluebird": "^2.3.5",
+    "js-yaml": "^3.2.2",
+    "lodash": "^2.4.1",
+    "request": "^2.45.0"
+  }
+}
