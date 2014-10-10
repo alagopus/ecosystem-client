@@ -3,7 +3,7 @@
 ecosystem-client
 ================
 
-HTTP client for consuming data about the Strider ecosystem
+HTTP client for consuming data about the Strider ecosystem as maintained in [ecosystem-index](https://github.com/Strider-CD/ecosystem-index)
 
 ## API
 
