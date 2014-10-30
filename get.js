@@ -1,10 +1,7 @@
 var root = require('./root')
-var request = require('request')
+var needle = require('needle')
 module.exports = get;
 function get(url, cb) {
   console.log("GET "+url.replace(root, '[ecosystem]'))
-  request({
-    method: 'GET',
-    uri: url
-  }, cb)
+  needle.get(url, cb)
 }
